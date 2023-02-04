@@ -33,5 +33,7 @@ f8762197372b44d89991f973247aa3df
 
 <img width="1789" alt="Screenshot 2023-02-04 at 11 57 25 PM" src="https://user-images.githubusercontent.com/43849911/216783533-0797d446-9172-4510-bb53-44ca2f4d9c2d.png">
 
+Set up Linux Machine As Jenkins Slave.
+
 
 
