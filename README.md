@@ -39,6 +39,7 @@ Set up Linux Machine As Jenkins Slave.
 
 Manage Nodes => New Node
 
+Launch agent
 ```
 
 <img width="1789" alt="Screenshot 2023-02-05 at 12 02 47 AM" src="https://user-images.githubusercontent.com/43849911/216783781-0117fc7b-9da2-44f4-a58e-bd8d2c13641a.png">
@@ -49,6 +50,7 @@ Manage Nodes => New Node
 
 <img width="1291" alt="Screenshot 2023-02-05 at 12 05 17 AM" src="https://user-images.githubusercontent.com/43849911/216783882-9e27204f-4ea9-4c0e-ac8f-a4bb55fa0da3.png">
 
+<img width="1324" alt="Screenshot 2023-02-05 at 12 16 33 AM" src="https://user-images.githubusercontent.com/43849911/216784330-795c74a4-541a-4e47-8970-a65d5063a1d7.png">
 
 
 
