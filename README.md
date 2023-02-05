@@ -25,7 +25,6 @@ brew services stop jenkins-lts
 
 <img width="1791" alt="Screenshot 2023-02-04 at 11 50 16 PM" src="https://user-images.githubusercontent.com/43849911/216783216-7b736f9e-b9c1-403a-baa0-4e917c03eaf0.png">
 
-
 <img width="1497" alt="Screenshot 2023-02-04 at 11 51 12 PM" src="https://user-images.githubusercontent.com/43849911/216783240-a3406edc-cabf-4b46-98ad-0d2f603fc2e9.png">
 
 <img width="1763" alt="Screenshot 2023-02-04 at 11 56 13 PM" src="https://user-images.githubusercontent.com/43849911/216783474-d2dc0935-8f18-4413-8db2-402edecc4d48.png">
@@ -52,6 +51,7 @@ Launch agent
 
 <img width="1324" alt="Screenshot 2023-02-05 at 12 16 33 AM" src="https://user-images.githubusercontent.com/43849911/216784330-795c74a4-541a-4e47-8970-a65d5063a1d7.png">
 
+<img width="646" alt="Screenshot 2023-02-06 at 1 05 27 AM" src="https://user-images.githubusercontent.com/43849911/216840785-20365f1a-4b93-4424-9b7c-7e9e1026b8d3.png">
 
 
 
