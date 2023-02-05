@@ -57,3 +57,8 @@ Launch agent
 
 <img width="1070" alt="Screenshot 2023-02-06 at 1 26 50 AM" src="https://user-images.githubusercontent.com/43849911/216841745-021d86eb-ab06-4477-b75c-6e337ebc7a76.png">
 
+```
+JNLP (Java Network Launch Protocol) allows us to install some of the remote applications inside client machine.
+```
+
+
