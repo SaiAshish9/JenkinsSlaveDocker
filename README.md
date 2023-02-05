@@ -61,6 +61,8 @@ Launch agent
 JNLP (Java Network Launch Protocol) allows us to install some of the remote applications inside client machine. We need to copy JAVA jar files of node inside jenkins agent.
 
 When we run that agent.jar , automatically it will connect to controller
+
+
 ```
 
 
