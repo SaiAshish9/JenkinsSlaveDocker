@@ -12,6 +12,6 @@
   },
   "scripts": {
     "start": "node index.js",
-    "test": "./node_modules/.bin/mocha ./test/test.js"
+    "test": "./node_modules/.bin/mocha ./test.js"
   }
 }
