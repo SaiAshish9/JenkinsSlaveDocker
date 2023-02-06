@@ -81,3 +81,6 @@ When we run that agent.jar , automatically it will connect to controller
 
 <img width="662" alt="Screenshot 2023-02-07 at 12 08 19 AM" src="https://user-images.githubusercontent.com/43849911/217056906-c5f677c6-b444-4a96-ae4b-163c83ed1a7a.png">
 
+<img width="1024" alt="Screenshot 2023-02-07 at 12 09 54 AM" src="https://user-images.githubusercontent.com/43849911/217057209-f2fe120b-2988-44e0-8f09-ded16e69eb61.png">
+
+
