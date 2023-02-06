@@ -67,22 +67,14 @@ When we run that agent.jar , automatically it will connect to controller
 
 <img width="403" alt="Screenshot 2023-02-06 at 1 50 18 AM" src="https://user-images.githubusercontent.com/43849911/216842778-a64f58ba-6684-42ca-b8d5-b5d5b69a8147.png">
 
-<img width="1130" alt="Screenshot 2023-02-06 at 11 54 49 PM" src="https://user-images.githubusercontent.com/43849911/217054297-221b8263-73a6-49a5-ae59-acdc9decb019.png">
-
-<img width="1134" alt="Screenshot 2023-02-06 at 11 57 15 PM" src="https://user-images.githubusercontent.com/43849911/217054759-e470d3e5-4d0c-45a1-920e-e96da058dd26.png">
-
-<img width="1133" alt="Screenshot 2023-02-06 at 11 58 55 PM" src="https://user-images.githubusercontent.com/43849911/217055081-d4373151-7ff6-4311-b838-2c7049f2a6fe.png">
-
 <img width="1141" alt="Screenshot 2023-02-06 at 11 59 54 PM" src="https://user-images.githubusercontent.com/43849911/217055283-c54443cd-f1c0-4274-b819-de220daa3045.png">
-
-<img width="1138" alt="Screenshot 2023-02-07 at 12 06 22 AM" src="https://user-images.githubusercontent.com/43849911/217056559-76f73d0e-bcdf-4129-be88-d450aee7bb7b.png">
 
 <img width="658" alt="Screenshot 2023-02-07 at 12 07 58 AM" src="https://user-images.githubusercontent.com/43849911/217056865-4b4263c1-9d9c-4e7d-8903-644b34993176.png">
 
 <img width="662" alt="Screenshot 2023-02-07 at 12 08 19 AM" src="https://user-images.githubusercontent.com/43849911/217056906-c5f677c6-b444-4a96-ae4b-163c83ed1a7a.png">
 
-<img width="1024" alt="Screenshot 2023-02-07 at 12 09 54 AM" src="https://user-images.githubusercontent.com/43849911/217057209-f2fe120b-2988-44e0-8f09-ded16e69eb61.png">
+chmod 700 ~/.ssh
 
-<img width="1024" alt="Screenshot 2023-02-07 at 12 18 05 AM" src="https://user-images.githubusercontent.com/43849911/217058745-49beb689-d617-4a67-845f-d97b5079f820.png">
+<img width="1561" alt="Screenshot 2023-02-07 at 12 42 31 AM" src="https://user-images.githubusercontent.com/43849911/217063379-88628dda-2c01-4cf8-876e-eff069051160.png">
 
 
