@@ -77,4 +77,4 @@ chmod 700 ~/.ssh
 
 <img width="1561" alt="Screenshot 2023-02-07 at 12 42 31 AM" src="https://user-images.githubusercontent.com/43849911/217063379-88628dda-2c01-4cf8-876e-eff069051160.png">
 
-
+<img width="1564" alt="Screenshot 2023-02-07 at 12 52 24 AM" src="https://user-images.githubusercontent.com/43849911/217065320-64557397-bc26-4503-a3b4-d74924f04d64.png">
