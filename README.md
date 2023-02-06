@@ -91,6 +91,12 @@ chmod 700 ~/.ssh
 
 <img width="1538" alt="Screenshot 2023-02-07 at 12 58 38 AM" src="https://user-images.githubusercontent.com/43849911/217066449-5998560f-3078-49c1-9993-cb93500c55d8.png">
 
+<img width="1566" alt="Screenshot 2023-02-07 at 1 06 18 AM" src="https://user-images.githubusercontent.com/43849911/217067912-8b7b20c9-35ac-49c3-9f74-85297efa71d2.png">
 
+<img width="1557" alt="Screenshot 2023-02-07 at 1 06 35 AM" src="https://user-images.githubusercontent.com/43849911/217067973-904c6bbd-a4d0-4be7-8f11-3d541690e0c0.png">
+
+<img width="1561" alt="Screenshot 2023-02-07 at 1 07 02 AM" src="https://user-images.githubusercontent.com/43849911/217068061-22036a08-2ce5-490b-be18-784f82e9508b.png">
+
+<img width="1561" alt="Screenshot 2023-02-07 at 1 07 33 AM" src="https://user-images.githubusercontent.com/43849911/217068149-2e3a116f-2437-4a66-a8ac-82ab1475cb92.png">
 
 
