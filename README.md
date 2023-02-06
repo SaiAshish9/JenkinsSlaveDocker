@@ -78,3 +78,19 @@ chmod 700 ~/.ssh
 <img width="1561" alt="Screenshot 2023-02-07 at 12 42 31 AM" src="https://user-images.githubusercontent.com/43849911/217063379-88628dda-2c01-4cf8-876e-eff069051160.png">
 
 <img width="1564" alt="Screenshot 2023-02-07 at 12 52 24 AM" src="https://user-images.githubusercontent.com/43849911/217065320-64557397-bc26-4503-a3b4-d74924f04d64.png">
+
+<img width="1564" alt="Screenshot 2023-02-07 at 12 55 58 AM" src="https://user-images.githubusercontent.com/43849911/217065969-f0717407-8659-49d2-a19c-5a2781fc31ef.png">
+
+<img width="1565" alt="Screenshot 2023-02-07 at 12 56 30 AM" src="https://user-images.githubusercontent.com/43849911/217066061-f5325d1d-1791-4ce0-8ee6-c03a3ca33d2e.png">
+
+<img width="1436" alt="Screenshot 2023-02-07 at 12 57 33 AM" src="https://user-images.githubusercontent.com/43849911/217066247-d842d83e-7ac4-4dfb-b6cf-9d5b0624521b.png">
+
+<img width="1492" alt="Screenshot 2023-02-07 at 12 57 48 AM" src="https://user-images.githubusercontent.com/43849911/217066290-ba45c830-2cbb-4b1e-b73b-567ce55d24c4.png">
+
+<img width="1562" alt="Screenshot 2023-02-07 at 12 58 16 AM" src="https://user-images.githubusercontent.com/43849911/217066372-b60b512f-9691-4571-b736-fbbb1ca9a3d8.png">
+
+<img width="1538" alt="Screenshot 2023-02-07 at 12 58 38 AM" src="https://user-images.githubusercontent.com/43849911/217066449-5998560f-3078-49c1-9993-cb93500c55d8.png">
+
+
+
+
