@@ -20,6 +20,7 @@ f8762197372b44d89991f973247aa3df
 brew services restart jenkins-lts
 brew services stop jenkins-lts
 ```
+<img width="1559" alt="Screenshot 2023-02-07 at 1 28 32 AM" src="https://user-images.githubusercontent.com/43849911/217072316-35ef371f-3e03-4ec4-8f28-23d699d24b3e.png">
 
 <img width="839" alt="Screenshot 2023-02-04 at 11 40 09 PM" src="https://user-images.githubusercontent.com/43849911/216782848-1364e583-1b9d-4179-90f3-043180174fc0.png">
 
