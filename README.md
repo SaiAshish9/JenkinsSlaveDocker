@@ -119,7 +119,11 @@ CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
 docker images
 REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
 
+docker images
+REPOSITORY                TAG       IMAGE ID       CREATED              SIZE
+saiashish9/nodeapp_test   latest    87224d6836fe   About a minute ago   1.02GB
 ```
 
 <img width="1735" alt="Screenshot 2023-02-07 at 1 53 02 AM" src="https://user-images.githubusercontent.com/43849911/217077099-765e2f7e-632f-4d7c-9355-278a95046326.png">
+
 
