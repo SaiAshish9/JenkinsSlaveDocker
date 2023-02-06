@@ -100,4 +100,15 @@ chmod 700 ~/.ssh
 
 <img width="1561" alt="Screenshot 2023-02-07 at 1 07 33 AM" src="https://user-images.githubusercontent.com/43849911/217068149-2e3a116f-2437-4a66-a8ac-82ab1475cb92.png">
 
+<img width="1558" alt="Screenshot 2023-02-07 at 1 36 03 AM" src="https://user-images.githubusercontent.com/43849911/217073935-d13596d2-cada-48e5-8d5e-1ddfe2a29fca.png">
+
+dckr_pat_9SKIv1zmJYmHQ2LO_gdLSLsfbok
+
+<img width="1558" alt="Screenshot 2023-02-07 at 1 38 14 AM" src="https://user-images.githubusercontent.com/43849911/217074254-a14bf03b-712a-4c0c-a740-e988ca77a362.png">
+
+<img width="1556" alt="Screenshot 2023-02-07 at 1 38 42 AM" src="https://user-images.githubusercontent.com/43849911/217074334-a76341f8-8a4b-4dca-9452-708d85325324.png">
+
+<img width="1305" alt="Screenshot 2023-02-07 at 1 40 20 AM" src="https://user-images.githubusercontent.com/43849911/217074659-07a973cf-9ba3-4e80-bcb4-7445b165bc1f.png">
+
+
 
