@@ -110,5 +110,16 @@ dckr_pat_9SKIv1zmJYmHQ2LO_gdLSLsfbok
 
 <img width="1305" alt="Screenshot 2023-02-07 at 1 40 20 AM" src="https://user-images.githubusercontent.com/43849911/217074659-07a973cf-9ba3-4e80-bcb4-7445b165bc1f.png">
 
+<img width="1741" alt="Screenshot 2023-02-07 at 1 49 45 AM" src="https://user-images.githubusercontent.com/43849911/217076440-f01cacce-7f74-4967-88b8-e205e29dc910.png">
 
+```
+docker ps
+CONTAINER ID   IMAGE     COMMAND   CREATED   STATUS    PORTS     NAMES
+
+docker images
+REPOSITORY   TAG       IMAGE ID   CREATED   SIZE
+
+```
+
+<img width="1735" alt="Screenshot 2023-02-07 at 1 53 02 AM" src="https://user-images.githubusercontent.com/43849911/217077099-765e2f7e-632f-4d7c-9355-278a95046326.png">
 
