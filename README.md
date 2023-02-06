@@ -126,4 +126,52 @@ saiashish9/nodeapp_test   latest    87224d6836fe   About a minute ago   1.02GB
 
 <img width="1735" alt="Screenshot 2023-02-07 at 1 53 02 AM" src="https://user-images.githubusercontent.com/43849911/217077099-765e2f7e-632f-4d7c-9355-278a95046326.png">
 
+<img width="1395" alt="Screenshot 2023-02-07 at 2 02 52 AM" src="https://user-images.githubusercontent.com/43849911/217078939-30d9415c-4317-4018-88ec-10fb5fea4001.png">
+
+<img width="1740" alt="Screenshot 2023-02-07 at 2 03 48 AM" src="https://user-images.githubusercontent.com/43849911/217079069-f6efb684-a934-4d46-8728-9800a29d9de5.png">
+
+<img width="1738" alt="Screenshot 2023-02-07 at 2 05 17 AM" src="https://user-images.githubusercontent.com/43849911/217079327-f0646769-a328-4a40-8257-3e6026a1145b.png">
+
+<img width="1742" alt="Screenshot 2023-02-07 at 2 05 41 AM" src="https://user-images.githubusercontent.com/43849911/217079386-bb9f0ea9-0c63-4697-90a5-c58cefadc687.png">
+
+<img width="1733" alt="Screenshot 2023-02-07 at 2 06 01 AM" src="https://user-images.githubusercontent.com/43849911/217079465-c3c8ab90-e333-44ea-88cf-c8f83e0960b6.png">
+
+```
+pipeline {
+    agent {label 'local'}
+    
+    environment {
+        DOCKERHUB_CREDENTIALS=credentials('dockerhub')
+    }
+
+    stages {
+        stage('gitclone') {
+            steps {
+                git 'https://github.com/SaiAshish9/JenkinsSlaveDocker.git'
+            }
+        }
+        stage('Build') {
+            steps {
+                sh 'docker build -t saiashish9/nodeapp_test:latest .'
+            }
+        }
+        stage('Login') {
+            steps {
+                sh 'echo $DOCKERHUB_CREDENTIALS_PSW | docker login -u $DOCKERHUB_CREDENTIALS_USR --password-stdin'
+            }
+        }
+        stage('Push') {
+            steps {
+                sh 'docker push saiashish9/nodeapp_test:latest'
+            }
+        }
+    }
+    
+    post {
+        always {
+            sh 'docker logout'
+        }
+    }
+}
+```
 
